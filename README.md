@@ -13,6 +13,11 @@ Tugas Pertemua 5 Kriptografi
 ## Hasil Uji
 Pesan berhasil dienkripsi dan dikembalikan ke bentuk semula.
 
+## Preview
+![Screenshot](Screenshot 2026-05-07 104907.png)
+![Screenshot](Screenshot 2026-05-07 105042.png)
+
+
 ## Author
 Nama: (NADA NURRAMADHANI ROSMITA)
 NIM: (252220058)
