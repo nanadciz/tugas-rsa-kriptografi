@@ -15,7 +15,7 @@ Pesan berhasil dienkripsi dan dikembalikan ke bentuk semula.
 
 ## Preview
 ![Screenshot](Screenshot2026-05-07104907.png)
-![Screenshot](Screenshot2026-05-07105042.png)
+![Screenshot](ssdeskrip.png)
 
 
 ## Author
