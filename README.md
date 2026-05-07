@@ -14,7 +14,7 @@ Tugas Pertemua 5 Kriptografi
 Pesan berhasil dienkripsi dan dikembalikan ke bentuk semula.
 
 ## Preview
-![Screenshot](Screenshot2026-05-07104907.png)
+![Screenshot](ssenkrip.png)
 ![Screenshot](ssdeskrip.png)
 
 
